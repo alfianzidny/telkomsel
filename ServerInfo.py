@@ -17,9 +17,9 @@ class Info:
         if self.get.lower() == 'ver':
             return '1.0.0b'
         if self.get.lower() == 'date':
-            return '13-September-2022
+            return '13-September-2022'
         if self.get.lower() == 'by':
-            return 'inunxlabs reupload alfianzidny''
+            return 'inunxlabs reupload alfianzidny'
         if self.get.lower() == 'mail':
             return 'inunxlabs@gmail.com'
         if self.get.lower() == 'remode':
